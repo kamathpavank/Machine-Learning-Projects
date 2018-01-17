@@ -10,7 +10,11 @@ Machin Learining Projects
 ->Classification Based Projects
 
    1.Written own classifer:
+   
     - This project uses iris dataset
+    
     - This project uses classifier written from scratch
+    
     - The classifier uses euclidean fornula to calculate the distance of test point from train points
+    
     - The classifier gives accuracy around 0.96
