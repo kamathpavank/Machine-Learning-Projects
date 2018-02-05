@@ -14,6 +14,10 @@ Machin Learining Projects
   2.Slary Prediction model
    - Predicts the salary of an employee based on experience
    - It is based on Simple Linear Regression
+  
+  3.Profit pediction model
+   - Predicts the profit of a startup based on R&D spend,Administration and marketing
+   - It is based on Multiple Linear Regression
    
 ->Classification Based Projects
 
