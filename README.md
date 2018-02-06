@@ -9,7 +9,7 @@ Machin Learining Projects
 
   1.Boston House Price:
    - Predicts the price of houses in boston
-   - It is based on Linear Regression Algorithm
+   - It is based on Simple Linear Regression Algorithm
   
   2.Slary Prediction model
    - Predicts the salary of an employee based on experience
@@ -18,6 +18,10 @@ Machin Learining Projects
   3.Profit pediction model
    - Predicts the profit of a startup based on R&D spend,Administration and marketing
    - It is based on Multiple Linear Regression
+  
+  4.Predicting Previous salary of new Employee 
+   - This model is used to predict the previous salary of new employee to check wheter the new employee is saying truth about his/her          salary
+   - It is based on Polynomial Linear Regression
    
 ->Classification Based Projects
 
