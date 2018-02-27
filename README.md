@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
 Machin Learining Projects
 
 ->Data Preprocessing
